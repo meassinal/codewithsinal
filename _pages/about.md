@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m a **Senior Software Developer** based in **Siem Reap, Cambodia**, with a strong background in both the **technical and business** aspects of product development. With hands-on experience in **Ruby on Rails** and **React**, I specialize in building full-stack web applications that are scalable, efficient, and user-centered.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m passionate about bridging the gap between engineering and business strategy — turning complex challenges into practical, impactful solutions that drive real results. I value clean code, clean architecture, thoughtful design, modern development practices, team collaboration, and continuous learning to stay ahead in an ever-evolving tech landscape.
+
+Outside of coding, I practice **Aikido** (a Japanese Bushido), which helps me stay grounded, focused, and balanced — qualities I bring into my work and everyday life.
