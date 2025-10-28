@@ -4,7 +4,7 @@ title: "My Resume"
 ---
 
 ### Work Experience
-**Senior Software Developer**, MGA Asia Insurance Brokers - Remote  
+**Senior Software Developer**, **MGA Asia Insurance Brokers** - Remote  
 November 2021 - Present
 - Involved in both tech and business aspects 
 - Lead team in building an MVP, and iterate on the feedback loop to ensure it meets business needs
@@ -17,10 +17,22 @@ November 2021 - Present
   - Redux Saga
   - TypeScript
   - React Native
+  
+**Consulting Software Developer**, **Anagata Type** - Siem Reap  
+September 2023 - May 2025  
 
-**Software Developer**, MotionsCloud - Remote  
+Anagata Type is a retail font platform.
+- Analysed requirements & challenges
+- Chose Ruby on Rails fullstack framework for the platform
+- Protected fonts from unauthorized downloads
+- Built services for quote price based on licenses & styles
+- Streamlined order process from cart to order, and order to payment
+- Integrated with Paddle Payment checkout 
+
+**Software Developer**, **MotionsCloud** - Remote  
 January 2020 - September 2022  
-MotionsCloud helps property & vehicle inspection teams to streamline and automate inspection processes. Our tools empower inspection teams to be efficient and effective
+
+MotionsCloud helps property & vehicle inspection teams to streamline and automate inspection processes. Our tools empower inspection teams to be efficient and effective.
 - Successfully built an Object Measurement Web application using OpenCV in Python, Dash Python Plotly, & Supervisor (A Process Control System) 
   - Used MySQL & SQLAlchemy
   - Built GraphQL API using Apollo GraphQL for accessing the object measurement data
@@ -30,20 +42,22 @@ MotionsCloud helps property & vehicle inspection teams to streamline and automat
 - Built a prototype detecting fake photos by integrating with Attestiv API 
 - Contributed to a Ruby on Rails application
 
-**Startup Co-founder**, Bayonia - Cambodia  
+**Startup Co-founder**, **Bayonia** - Cambodia  
 June 2017 - December 2019  
-Bayonia was a curated boutique hotel & resort booking platform in Cambodia
+
+Bayonia was a curated boutique hotel & resort booking platform in Cambodia.
 - Involved in both tech & business aspects
 - Built the booking platform using Ruby on Rails & React
 
-**Senior Web Developer**, Rotati Consulting - Phnom Penh  
+**Senior Web Developer**, **Rotati Consulting** - Phnom Penh  
 January 2015 - March 2016
 - Worked on client projects using Ruby on Rails
-- Gathered requirements, analysed the processes, designed mockups, & workflows
+- Gathered requirements, analysed the processes, designed mockups & workflows
 - Trained junior developers on Ruby on Rails
 
-**Web Developer**, Yoolk Inc. - Phnom Penh  
+**Web Developer**, **Yoolk Inc.** - Phnom Penh  
 January 2010 - December 2015  
+
 Contributed to the development of the most popular leading business directory website known as Cambodia Yellow Pages.
 - Work across teams to assist them in delivering results on time
 - Followed best practices such as Clean Code, Design Patterns, & Test-Driven Development(TDD)   
