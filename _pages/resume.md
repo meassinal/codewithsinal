@@ -76,9 +76,8 @@ Exams Completed:
 - F3: Financial Accounting  
 - F4: Corporate and Business Law  
 - F5: Performance Management  
-- F6: Diploma Cambodian Tax  
-- F7: Financial Reporting  
-- F8: Audit and Assurance  
+- F6: Diploma in Cambodian Tax    
+- F7: Financial Reporting    
 - F9: Financial Management
 
 **Royal University of Phnom Penh (RUPP)**  
